@@ -1,10 +1,11 @@
+
 #pragma once
 
 #include "bmp_averager.hh"
 
+#include <gvs_json.hh>
 #include <gvs_mutexed.hh>
 #include <gvs_tqueue.hh>
-#include <gvs_json.hh>
 
 #include <chrono>
 #include <deque>
